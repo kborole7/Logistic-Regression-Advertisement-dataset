@@ -1,1 +1,1 @@
-# Logistic-Regression---Advertisement-dataset
+# Logistic-Regression-Advertisement-dataset
